@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ghp-movies-db/static/css/main.dd25ada4.chunk.css",
+    "main.js": "/ghp-movies-db/static/js/main.db8dab21.chunk.js",
+    "main.js.map": "/ghp-movies-db/static/js/main.db8dab21.chunk.js.map",
+    "runtime-main.js": "/ghp-movies-db/static/js/runtime-main.87f239ef.js",
+    "runtime-main.js.map": "/ghp-movies-db/static/js/runtime-main.87f239ef.js.map",
+    "static/css/2.bd932d36.chunk.css": "/ghp-movies-db/static/css/2.bd932d36.chunk.css",
+    "static/js/2.111534d1.chunk.js": "/ghp-movies-db/static/js/2.111534d1.chunk.js",
+    "static/js/2.111534d1.chunk.js.map": "/ghp-movies-db/static/js/2.111534d1.chunk.js.map",
+    "index.html": "/ghp-movies-db/index.html",
+    "static/css/2.bd932d36.chunk.css.map": "/ghp-movies-db/static/css/2.bd932d36.chunk.css.map",
+    "static/css/main.dd25ada4.chunk.css.map": "/ghp-movies-db/static/css/main.dd25ada4.chunk.css.map",
+    "static/js/2.111534d1.chunk.js.LICENSE.txt": "/ghp-movies-db/static/js/2.111534d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f239ef.js",
+    "static/css/2.bd932d36.chunk.css",
+    "static/js/2.111534d1.chunk.js",
+    "static/css/main.dd25ada4.chunk.css",
+    "static/js/main.db8dab21.chunk.js"
+  ]
+}
